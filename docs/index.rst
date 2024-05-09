@@ -31,6 +31,6 @@ Are you ready to explore?
    :caption: Content:
 
    Content/modules
-   Content/Setup Instructions
+   Content/SetupInstructions
 
 

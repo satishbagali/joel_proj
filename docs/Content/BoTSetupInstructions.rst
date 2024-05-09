@@ -7,4 +7,4 @@ Setup Instructions
    :hidden:
    :maxdepth: 2
 
-   ../Setup Instructions/setupinstructions
+   ../SetupInstructions/Setupinstructions
