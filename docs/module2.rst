@@ -1,8 +1,7 @@
 module2 package
 ===============
 
-Submodules
-----------
+
 
 module2.file3 module
 --------------------
