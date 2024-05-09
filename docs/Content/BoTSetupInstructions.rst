@@ -1,5 +1,5 @@
-Setup Instructions
-=======
+SetupInstructions
+============
 
 Setup Instructions
 
