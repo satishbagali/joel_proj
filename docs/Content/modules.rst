@@ -4,7 +4,7 @@ src
 .. toctree::
    :maxdepth: 4
 
-   main
-   module1
-   module2
-   utils
+   ../main
+   ../module1
+   ../module2
+   ../utils
