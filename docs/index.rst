@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LPWJ Documentation's documentation! - 1
+LPWJ Documentation's documentation! - 1
 ==============================================
+This is about the decent looking simple documentation of LPWJ Project. 
+Are you ready to explore? 
 
 .. toctree::
    :maxdepth: 2
