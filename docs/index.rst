@@ -8,8 +8,8 @@ Welcome to LPWJ Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Content:
 
-   modules
+   Content/modules
 
 
