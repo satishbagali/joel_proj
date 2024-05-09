@@ -1,8 +1,6 @@
 module1 package
 ===============
 
-Submodules
-----------
 
 module1.file1 module
 --------------------
