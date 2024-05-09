@@ -8,6 +8,9 @@ LPWJ Documentation's documentation! - 1
 This is about the decent looking simple documentation of LPWJ Project. 
 Are you ready to explore? 
 
+.. image:: /images/farmerchat.webp
+
+
 .. toctree::
    :maxdepth: 2
    :hidden:
